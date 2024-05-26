@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ServerSide": {
+      "commandName": "Project"
+    },
+    "MyServer": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\artic\\Desktop\\MyServer\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\artic\\Desktop\\MyServer"
+    }
+  }
+}
